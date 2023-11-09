@@ -1,1 +1,9 @@
-# art
+- Art must be [critiqued](https://github.com/abikesa/bloom)
+- Best of art uses history:
+  - Reverence
+  - Inference
+  - Deliverance
+- Case: Bach's `Air`
+  - My `reverence` for him is [increased by it](https://github.com/abikesa/sheetmusic)
+  - Yet its mostly my new `inferences` about music in general that dominate my experience
+  - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
