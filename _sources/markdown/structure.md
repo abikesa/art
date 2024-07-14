@@ -11,9 +11,9 @@
          - {ref}`rr-overview-definitions`
          - {ref}`rr-overview-benefits`
          - {ref}`rr-overview-barriers`
-      - {ref}`rr-open`
+      - {ref}`rr-review`
          - {ref}`rr-cu`
-         - {ref}`rr-trad)`
+         - {ref}`rr-trad`
          - {ref}`rr-ntz`
       - {ref}`rr-ecce`
          - {ref}`rr-open-data`
