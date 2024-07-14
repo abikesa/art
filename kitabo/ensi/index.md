@@ -62,6 +62,11 @@ height: 1px
 _Tribes decode heritage in unique ways_. But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
 ```
 
+```{admonition} Translation
+:class: tip
+Ask ChatGPT to give you variants on "admonition"
+```
+
 That's an interesting comparison. Tyler Perry's films often use the church as a cornerstone of hope, with the pastor delivering uplifting messages, surrounded by soulful music that adds emotional gravity to the scenes. His films can feel like a vibrant church service, aiming to inspire and uplift audiences.
 
 On the other hand, the Coen Brothers often depict rabbis with a touch of absurdity. Their rabbis may deliver messages that are intentionally unconvincing or perplexing, accompanied by chanting that adds to the humor and irony of the situation. This approach reflects their unique style, which often blends dark comedy with philosophical musings, leaving audiences both amused and contemplative.
