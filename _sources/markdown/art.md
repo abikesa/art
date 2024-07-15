@@ -20,7 +20,7 @@ Don't be trapped by [dogma](stevejobs.md), which is the results of other people'
 ### Encoding; Linear 1, 2, 3
 - Sensory; experiences randomly sampled from normal distribution
 - Memory; restricted time-intervals where $z>3$
-- Emotion; mean of the distribution of experiences 
+- Emotion; mean or $h_0(t)=k$ in life & great art: think Coen Brothers
 
 ### Latent-space; Categorical 4
 - Collective; with categorical variables hierarchical modeling needed
