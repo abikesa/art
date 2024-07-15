@@ -19,7 +19,7 @@ Don't be trapped by [dogma](stevejobs.md), which is the results of other people'
 
 ### Encoding; Linear 1, 2, 3
 - Sensory; experiences randomly sampled from normal distribution
-- Memory; restricted time-intervals where $z>3`$
+- Memory; restricted time-intervals where $z>3$
 - Emotion; mean of the distribution of experiences 
 
 ### Latent-space; Categorical 4
@@ -39,18 +39,18 @@ Don't be trapped by [dogma](stevejobs.md), which is the results of other people'
 
 ```{admonition} Autoencoder
 :class: tip
-Art must be [critiqued](https://github.com/abikesa/bloom)       
+- Art must be [critiqued](https://github.com/abikesa/bloom)       
    - More remote overtones of the harmonic series "heard"?     
    - Embracing of these as inseperable from earlier overtones?     
    - How, then, do our favorite artists perform with regard to one specific overtone?     
-Best of art uses history:       
+- Best of art uses history:       
    - Reverence  
    - Inference
    - Deliverance     
-Case: Bach's `Air`           
+- Case: Bach's `Air`           
    - My `reverence` for him is [increased by it](https://github.com/abikesa/sheetmusic)
    - Yet its mostly my new `inferences` about music in general that dominate my experience
-   - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
+  ` - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
 
 ```
 
