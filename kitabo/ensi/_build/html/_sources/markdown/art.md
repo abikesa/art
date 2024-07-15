@@ -1,13 +1,32 @@
-> *Don't be trapped by [dogma](stevejobs.md), which is the results of other people's thinking*
 
-                                  1. fo(t)
-                                          \
-                                  2. t -> 4. So(t)-> 5. logHR -> 6. p
-                                          /
-                                          3. ho(t)
 
  <iframe width="100%" height="600" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+```{admonition} Autoencoder
+:class: tip
+Don't be trapped by [dogma](stevejobs.md), which is the results of other people's thinking
+```
+
+
+                                       1. fo(t)
+                                               \
+                                  2. So(t) ->  4. Xb -> 5. logHR -> 6. S,(t)
+                                               /
+                                               3. ho(t)
+
+
+### Encoding 1, 2, 3
+- Sensory
+- Memory
+- Emotion
+
+### Latent-space 4
+- Collective: b (coefficient vector, parameters), V (var-cov matrix, weights) 
+
+### Decoding 5, 6
+- Oracle
+- Personalize
 
 > Art must be [critiqued](https://github.com/abikesa/bloom)       
      - More remote overtones of the harmonic series "heard"?     
