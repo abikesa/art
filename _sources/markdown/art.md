@@ -1,4 +1,5 @@
 
+# Art
 
  <iframe width="100%" height="600" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,30 +17,43 @@ Don't be trapped by [dogma](stevejobs.md), which is the results of other people'
                                                3. ho(t)
 
 
-### Encoding 1, 2, 3
-- Sensory
-- Memory
-- Emotion
+### Encoding; Linear 1, 2, 3
+- Sensory; experiences randomly sampled from normal distribution
+- Memory; restricted time-intervals where $z>3`$
+- Emotion; mean of the distribution of experiences 
 
-### Latent-space 4
-- Collective: b (coefficient vector, parameters), V (var-cov matrix, weights) 
+### Latent-space; Categorical 4
+- Collective; with categorical variables hierarchical modeling needed
 
-### Decoding 5, 6
-- Oracle
-- Personalize
+### Decoding; Binary 5, 6
+- Oracle; easy to apply yes/no rules in a univariable sense
+- Personalize; we draw a red line arbitrarily at, say, $z=1.96$
 
-> Art must be [critiqued](https://github.com/abikesa/bloom)       
-     - More remote overtones of the harmonic series "heard"?     
-     - Embracing of these as inseperable from earlier overtones?     
-     - How, then, do our favorite artists perform with regard to one specific overtone?     
-> Best of art uses history:       
-     - Reverence  
-     - Inference
-     - Deliverance     
-> Case: Bach's `Air`           
-     - My `reverence` for him is [increased by it](https://github.com/abikesa/sheetmusic)
-     - Yet its mostly my new `inferences` about music in general that dominate my experience
-     - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
+
+                                       1. Chaos
+                                               \
+                                  2. Frenzy ->  4. Dionysian -> 5. Algorithm-> 6. Binary
+                                               /
+                                               3. Energy
+
+
+```{admonition} Autoencoder
+:class: tip
+Art must be [critiqued](https://github.com/abikesa/bloom)       
+   - More remote overtones of the harmonic series "heard"?     
+   - Embracing of these as inseperable from earlier overtones?     
+   - How, then, do our favorite artists perform with regard to one specific overtone?     
+Best of art uses history:       
+   - Reverence  
+   - Inference
+   - Deliverance     
+Case: Bach's `Air`           
+   - My `reverence` for him is [increased by it](https://github.com/abikesa/sheetmusic)
+   - Yet its mostly my new `inferences` about music in general that dominate my experience
+   - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
+
+```
+
 
 
 ### Dossier on Mozart & Shakespeare and the "Embarrassment" of Their Moorish Characters
