@@ -1,5 +1,11 @@
 > *Don't be trapped by [dogma](stevejobs.md), which is the results of other people's thinking*
 
+                                  1. fo(t)
+                                          \
+                                  2. t -> 4. So(t)-> 5. logHR -> 6. p
+                                          /
+                                          3. ho(t)
+
  <iframe width="100%" height="600" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -15,13 +21,6 @@
      - My `reverence` for him is [increased by it](https://github.com/abikesa/sheetmusic)
      - Yet its mostly my new `inferences` about music in general that dominate my experience
      - From this vantage I'm in better position to critique and provide much needed `deliverance` from the shackles of my earlier exposures to music & genres
- 
-
-                                  1. Voir
-                                         \
-                            2. Savoir -> 4. Memoire -> 5. Reservoir -> 6. Terroir
-                                         /
-                                         3. Pouvoir
 
 
 ### Dossier on Mozart & Shakespeare and the "Embarrassment" of Their Moorish Characters
