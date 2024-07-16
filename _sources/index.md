@@ -43,6 +43,18 @@ _The House of Suntori_ represents the [epitome](markdown/woodyallen.ipynb) of Ja
 ### Social 4
 ### Personal [5](https://www.youtube.com/watch?v=8iIGBWH0gks), 6
 
+```{margin} Hint
+**Subgroups Considered**: The survival analysis is performed for specific subgroups, identified by the variable [ridreth3](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/DEMO_G.htm#RIDRETH3). These include Mexican, Hispanic, White, Black, Asian, and Other.
+```
+
+```{margin} Markdown?
+                                 1. f(t)
+                                       \
+                           2. S(t) ->  X -> b -> SV
+                                       /
+                                       3. h(t)
+```
+
 _**Move over Freud**_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs {cite}`muzaale2014risk`. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful {cite}`Ostrom1990commons`. 
 
 Consider how dreams can incorporate visual elements from a recent movie we watched, emotional tones from our current mood, and narrative structures from stories we've encountered. This mirrors the way a multimodal model would integrate text, images, and other forms of data to create a comprehensive understanding {cite}`Ostrom2006commons`.
